@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305035752146",
+    "project_id": "grocery-list-manager-f4b22",
+    "storage_bucket": "grocery-list-manager-f4b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305035752146:android:7ccb55c314b4e6e58bb30b",
+        "android_client_info": {
+          "package_name": "com.example.grocery_list_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Nb0bAROLQe_BTPxpi1HItd7flZ6w89Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
