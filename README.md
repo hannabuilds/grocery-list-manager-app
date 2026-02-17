@@ -18,5 +18,6 @@ A user-friendly grocery list management app designed to helps users organize gro
 **Platforms:** Android (cross-platform ready)
 
 **Download links:** 
-**Older phones:** https://github.com/hannabuilds/grocery-list-manager-app/releases/download/v1.0.0/app-armeabi-v7a-release.apk
-**Modern phones:** https://github.com/hannabuilds/grocery-list-manager-app/releases/download/v1.0.0/app-arm64-v8a-release.apk  or  https://github.com/hannabuilds/grocery-list-manager-app/releases/download/v1.0.0/app-x86_64-release.apk
+- **Older phones:** https://github.com/hannabuilds/grocery-list-manager-app/releases/download/v1.0.0/app-armeabi-v7a-release.apk
+- **Modern phones:** https://github.com/hannabuilds/grocery-list-manager-app/releases/download/v1.0.0/app-arm64-v8a-release.apk
+- https://github.com/hannabuilds/grocery-list-manager-app/releases/download/v1.0.0/app-x86_64-release.apk
